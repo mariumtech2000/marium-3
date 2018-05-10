@@ -13,7 +13,6 @@ header nav{
 
 nav{
 	color: #207eff;
-
 }
 
 
@@ -30,10 +29,3 @@ button{
 	background-color: white;
 	border-color: #42cdb2;
 }
-
-footer{
-	background-color: #22313b;
-	color: white;
-	text-align: center;
-}
-
