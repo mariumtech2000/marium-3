@@ -1,0 +1,39 @@
+body{
+	margin: 0px;
+}
+
+
+header nav{
+	background-color: pink;
+	display: flex;
+	position: relative;
+	align-items: center;
+	justify-content: space-between;
+}
+
+nav{
+	color: #207eff;
+
+}
+
+
+
+li{
+	display: inline-block;
+	padding: 15px;
+	font-size: 20px;
+}
+
+button{
+	padding: 11px;
+	color: purple;
+	background-color: white;
+	border-color: #42cdb2;
+}
+
+footer{
+	background-color: #22313b;
+	color: white;
+	text-align: center;
+}
+
